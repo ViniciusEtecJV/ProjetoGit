@@ -9,5 +9,7 @@ public class classeprincipal22 {
 		System.out.println(x+y);
 		
 		System.out.println(x-y);
+		
+		System.out.println(x/y);
 	}
 }
